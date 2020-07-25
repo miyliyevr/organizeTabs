@@ -1,0 +1,32 @@
+#RustamsSpecialUniqueId {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 20%;
+    height: 100%;
+    background-color: black;
+}
+
+/*
+#RustamsSpecialUniqueId {
+    width: 25%;
+    height: 25vh;
+}
+
+#RustamsSpecialUniqueIdWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+#RustamsSpecialUniqueIdmain,
+#RustamsSpecialUniqueId {
+    border: 3px solid black;
+    padding: 15px;
+    background-color: #fff;
+}
+
+#RustamsSpecialUniqueIdmain {
+    width: 60%;
+    height: 150vh;
+}
+*/
